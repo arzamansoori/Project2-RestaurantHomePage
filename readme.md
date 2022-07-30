@@ -9,4 +9,4 @@ Hi, I am *Arza Mansoori*.<br>
 ***Time taken :***<br>
 *Took me 2-3 hours to complete this.*
 
-[*Project1-LiveLink (Netlify)*](https://project1-streetstyle.netlify.app/ "Project 1")
+[*LiveLink (Netlify)*](https://project2-restaurantpage.netlify.app/ "Project 2")
