@@ -1,7 +1,7 @@
 ![Badge1](https://img.shields.io/badge/Project2-RestaurantHomePage-A020F0)
 
 Hi, I am *Arza Mansoori*.<br>
-*This project is a part of ***Full Stack Javascript*** course by iNeuron.*
+*This project is based on pure HTML and CSS. Also, a part of my learnings. Not a responsive one.*
 
 ***Project Takeaway :***<br>
 *In this, I have learned about Grid and flex as well as how to put background image with the mixture of color(background blend mode property).*
